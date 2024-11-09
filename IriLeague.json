@@ -1,6 +1,6 @@
 {
 	"Name": "Iridescent League",
-	"Version": 1730949997,
+	"Version": 1731173925,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Across all 4 survivors you may either bring Dead Hard or Overcome, you  CANNOT bring both perks even on different survivors.\n\nMap and killer options vary each week.",
 	"Tiers": [
@@ -1539,19 +1539,37 @@
 				416,
 				412
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				8,
+				15
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
